@@ -3,4 +3,4 @@
 **ФИТ-2**  
 
 Датасет:  
-https://archive.ics.uci.edu/dataset/380/youtube+spam+collection
+[https://archive.ics.uci.edu/dataset/913](https://archive.ics.uci.edu/dataset/913/forty+soybean+cultivars+from+subsequent+harvests)
